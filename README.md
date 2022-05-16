@@ -1,6 +1,6 @@
 # SewerWatch Privacy Policy
 
-Eastech Flow Controls built the Sewer Watch app as a free app. This app is provided by Eastech Flow Controls at no cost and is intended for use as is.
+Eastech Flow Controls built the Eastech Connect app as a free app. This app is provided by Eastech Flow Controls at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
